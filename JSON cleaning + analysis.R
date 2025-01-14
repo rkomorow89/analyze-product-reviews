@@ -1,6 +1,6 @@
 
 #Working-Directory ändern
-setwd("~/Daten-Orchestrierung/Auftrag Julian Kern")
+setwd("~/path/to/your/project/directory")
 
 #JSON-Datei einlesen
 
